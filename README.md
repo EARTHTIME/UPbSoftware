@@ -23,6 +23,7 @@ This space is meant to be a community-editable compilation of useful codes and s
 | Tripoli | [CIRDLES website](http://cirdles.org/projects/tripoli/) | Jim Bowring, Noah McLean |
 | Schmitz and Schoene 'UPbR' spreadsheet | [BSU website](https://earth.boisestate.edu/isotope/labshare/data-reduction-software/) | Mark Schmitz, Blair Schoene |
 | ET_Redux | [Github](https://github.com/CIRDLES/ET_Redux/releases) | Bowring(s), McLean |
+| Squid3 | [Github](https://github.com/CIRDLES/squid/releases) | Bowring, Bodorkos |
 
 
 
