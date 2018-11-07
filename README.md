@@ -1,6 +1,6 @@
-# Repository of software for U-Pb geochronology
+# Repository of software for ID-TIMS U-Pb geochronology
 
-This space is meant to be a community-editable compilation of useful codes and software for U-Pb geochronology, from reducing/interpreting/compiling mass spectrometer data to interpreting ages in geological context.  To add to or edit this document, email \<noahmc at ku dot edu\> or open a pull request.
+This space is meant to be a community-editable compilation of useful codes and software for ID-TIMS U-Pb geochronology, from reducing/interpreting/compiling mass spectrometer data to interpreting ages in geological context.  To add to or edit this document, email \<noahmc at ku dot edu\> or open a pull request.
 
 ## Table of Contents:
 
