@@ -7,8 +7,9 @@ This space is meant to be a community-editable compilation of useful codes and s
 ### <u>Mass Spectrometry:</u>
 
 #### Method files
-| File | Source | Author(s) | Description |
+| Instrument | File | Author(s) | Description |
 |----------| :---------:| :---------: | ----------|
+| Phoenix62 |  ... | ... | ... |
 
 #### Deadtime and standards
 | Software | Source | Author(s) | Notes |
