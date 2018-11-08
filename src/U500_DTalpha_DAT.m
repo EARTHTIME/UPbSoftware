@@ -1,4 +1,4 @@
-% U500_DTalpha_SingleAnalysis_DAT.m
+% U500_DTalpha_DAT.m
 % Created on 2014-04-29, TUE, 19:30, by K.M. Samperton, Department of Geosciences, Princeton University, Princeton NJ USA
 % Updated and adapted for Sector 54 .DAT files on 2017-02-27 by C.B. Keller, Berkeley Geochronology Center, Berkeley CA USA
 

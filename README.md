@@ -16,8 +16,8 @@ This space is meant to be a community-editable compilation of useful codes and s
 | PU code for Pb standards | url | Samperton et al. |
 | KU code for Pb standards | [GitHub](https://github.com/noahmclean/TIMSLAB/tree/master/PbStandardsAnalysis) | McLean |
 | BSU deadtime spreadsheet | url | McLean |
-| BGC code for Pb alpha, DT | [NBS982_DTalpha_SingleAnalysis_DAT.m](src/NBS982_DTalpha_SingleAnalysis_DAT.m) | Samperton, Keller | Adapted for Sector 54 .DAT by Keller from Samperton src |
-| BGC code for U alpha, DT | [U500_DTalpha_SingleAnalysis_DAT.m](src/U500_DTalpha_SingleAnalysis_DAT.m) | Samperton, Keller | Adapted for Sector 54 .DAT by Keller from Samperton src  |
+| BGC code for Pb alpha, DT | [NBS982_DTalpha_DAT.m](src/NBS982_DTalpha_DAT.m) | Samperton, Keller | Adapted for Sector 54 .DAT by Keller from Samperton src |
+| BGC code for U alpha, DT | [U500_DTalpha_DAT.m](src/U500_DTalpha_DAT.m) | Samperton, Keller | Adapted for Sector 54 .DAT by Keller from Samperton src  |
 
 
 #### Other
