@@ -31,6 +31,7 @@ This space is meant to be a community-editable compilation of useful codes and s
 | Software | Source | Author(s) |
 |----------| :---------:| ----------|
 | Keller et al., (2018)<br> Estimate eruption age from mineral age spectrum | [GitHub Repository](https://github.com/brenhinkeller/BayeZirChron.c), [Demo Jupyter Notebook](https://mybinder.org/v2/gh/brenhinkeller/Chron.jl/master?filepath=examples%2Fdemo.ipynb) | Brenhin Keller |
-| Chron.jl: A Bayesian Framework for Integrated Eruption Age and Age-Depth Modelling.[doi:10.17605/osf.io/TQX3F](https://doi.org/10.17605/osf.io/TQX3F) | [GitHub Repository](https://github.com/brenhinkeller/Chron.jl), [Demo Jupyter Notebook](https://mybinder.org/v2/gh/brenhinkeller/Chron.jl/master?filepath=examples%2Fdemo.ipynb)| Brenhin Keller
+| Chron.jl: A Bayesian Framework for Integrated Eruption Age and Age-Depth Modelling. [doi:10.17605/osf.io/TQX3F](https://doi.org/10.17605/osf.io/TQX3F) | [GitHub Repository](https://github.com/brenhinkeller/Chron.jl), [Demo Jupyter Notebook](https://mybinder.org/v2/gh/brenhinkeller/Chron.jl/master?filepath=examples%2Fdemo.ipynb)| Brenhin Keller
+| Bayesian stratigraphic age model | ? | Robin Trayler
 
 
